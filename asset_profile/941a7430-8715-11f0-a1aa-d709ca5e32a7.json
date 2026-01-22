@@ -13,7 +13,10 @@
       "id" : "2eb683d0-0322-11f0-8f83-43727cd6bc90"
     },
     "description" : null,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "941a7430-8715-11f0-a1aa-d709ca5e32a7"
+    },
     "id" : {
       "entityType" : "ASSET_PROFILE",
       "id" : "941a7430-8715-11f0-a1aa-d709ca5e32a7"

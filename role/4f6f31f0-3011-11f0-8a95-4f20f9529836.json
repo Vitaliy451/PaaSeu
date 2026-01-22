@@ -5,7 +5,10 @@
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "ROLE",
+      "id" : "4f6f31f0-3011-11f0-8a95-4f20f9529836"
+    },
     "name" : "Customer group role",
     "permissions" : [ "READ", "READ_TELEMETRY" ],
     "type" : "GROUP",

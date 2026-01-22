@@ -50,7 +50,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 9011094
+    "version" : 13111701
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
@@ -58,7 +58,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1760351664707,
+      "lastUpdateTs" : 1769098621378,
       "longValue" : null,
       "strValue" : null
     }, {

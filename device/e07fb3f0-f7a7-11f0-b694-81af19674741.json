@@ -22,7 +22,10 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "aac545f0-84ce-11f0-9dcf-813811befd2b"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "e07fb3f0-f7a7-11f0-b694-81af19674741"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
@@ -46,7 +49,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1769096718270,
+      "lastUpdateTs" : 1769098621373,
       "longValue" : null,
       "strValue" : null
     }, {

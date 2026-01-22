@@ -21,7 +21,10 @@
       }
     },
     "etag" : "646072f9108ab08473740d65c7fd10fe38affe3a6c972c732cfa2a404d0f711f",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "4bc135e0-670b-11f0-b67a-bfad2d7e0da7"
+    },
     "fileName" : "giphy.gif",
     "id" : {
       "entityType" : "TB_RESOURCE",

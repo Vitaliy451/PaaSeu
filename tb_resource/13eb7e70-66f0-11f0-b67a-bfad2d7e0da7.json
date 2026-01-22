@@ -21,7 +21,10 @@
       }
     },
     "etag" : "3c1cc79b036a2532d2f3e204b996016166160c8c22465eb0f44b1077ea75995c",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "13eb7e70-66f0-11f0-b67a-bfad2d7e0da7"
+    },
     "fileName" : "cat-yes.gif",
     "id" : {
       "entityType" : "TB_RESOURCE",

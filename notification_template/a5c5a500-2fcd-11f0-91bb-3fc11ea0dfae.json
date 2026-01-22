@@ -28,7 +28,10 @@
       "timezone" : null,
       "userId" : null
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "a5c5a500-2fcd-11f0-91bb-3fc11ea0dfae"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_TEMPLATE",
       "id" : "a5c5a500-2fcd-11f0-91bb-3fc11ea0dfae"

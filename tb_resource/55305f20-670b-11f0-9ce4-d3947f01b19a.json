@@ -21,7 +21,10 @@
       }
     },
     "etag" : "a7db646de8b149e1a5fb1a067795ff22f40d065fc1b5c620f2914275cf1b76ca",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "55305f20-670b-11f0-9ce4-d3947f01b19a"
+    },
     "fileName" : "hungry.gif",
     "id" : {
       "entityType" : "TB_RESOURCE",

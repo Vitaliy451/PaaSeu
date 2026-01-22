@@ -36,7 +36,10 @@
     },
     "edgeTemplate" : false,
     "enabled" : true,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "INTEGRATION",
+      "id" : "060e08e0-f79b-11f0-b694-81af19674741"
+    },
     "id" : {
       "entityType" : "INTEGRATION",
       "id" : "060e08e0-f79b-11f0-b694-81af19674741"
@@ -47,14 +50,53 @@
     "secret" : "1z3n5o1b591iabjglzkc",
     "type" : "UDP"
   },
-  "relations" : [ ],
+  "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "INTEGRATION",
+      "id" : "060e08e0-f79b-11f0-b694-81af19674741"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "dc397fc0-f79c-11f0-8445-478f4e731979"
+    },
+    "type" : "ManagedByIntegration",
+    "typeGroup" : "COMMON",
+    "version" : 13111700
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "INTEGRATION",
+      "id" : "060e08e0-f79b-11f0-b694-81af19674741"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "0f5cf890-f79e-11f0-8445-478f4e731979"
+    },
+    "type" : "ManagedByIntegration",
+    "typeGroup" : "COMMON",
+    "version" : 13111696
+  }, {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "INTEGRATION",
+      "id" : "060e08e0-f79b-11f0-b694-81af19674741"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "644c5b90-f79c-11f0-8445-478f4e731979"
+    },
+    "type" : "ManagedByIntegration",
+    "typeGroup" : "COMMON",
+    "version" : 13111698
+  } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : "{\"success\":true}",
       "key" : "integration_status_[remote:8082]",
-      "lastUpdateTs" : 1769093083755,
+      "lastUpdateTs" : 1769098621597,
       "longValue" : null,
       "strValue" : null
     } ]

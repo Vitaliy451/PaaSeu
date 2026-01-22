@@ -503,7 +503,10 @@
       "entityType" : "CUSTOMER",
       "id" : "14c9c470-3011-11f0-8c90-21e87ff8c6cc"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "e3ebb990-ba4d-11f0-b84f-3b7dfdfb5a5a"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "e3ebb990-ba4d-11f0-b84f-3b7dfdfb5a5a"

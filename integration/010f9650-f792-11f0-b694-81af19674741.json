@@ -47,7 +47,10 @@
     },
     "edgeTemplate" : false,
     "enabled" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "INTEGRATION",
+      "id" : "010f9650-f792-11f0-b694-81af19674741"
+    },
     "id" : {
       "entityType" : "INTEGRATION",
       "id" : "010f9650-f792-11f0-b694-81af19674741"
@@ -58,7 +61,20 @@
     "secret" : "jo7ic708ps96y3b7def6",
     "type" : "TCP"
   },
-  "relations" : [ ],
+  "relations" : [ {
+    "additionalInfo" : null,
+    "from" : {
+      "entityType" : "INTEGRATION",
+      "id" : "010f9650-f792-11f0-b694-81af19674741"
+    },
+    "to" : {
+      "entityType" : "DEVICE",
+      "id" : "47288bc0-f796-11f0-b694-81af19674741"
+    },
+    "type" : "ManagedByIntegration",
+    "typeGroup" : "COMMON",
+    "version" : 13111686
+  } ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   }

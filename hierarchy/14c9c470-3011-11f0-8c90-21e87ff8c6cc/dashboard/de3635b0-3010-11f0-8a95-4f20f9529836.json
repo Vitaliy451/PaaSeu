@@ -1325,7 +1325,10 @@
       "entityType" : "CUSTOMER",
       "id" : "14c9c470-3011-11f0-8c90-21e87ff8c6cc"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "de3635b0-3010-11f0-8a95-4f20f9529836"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "de3635b0-3010-11f0-8a95-4f20f9529836"
