@@ -58,20 +58,7 @@
     "secret" : "jo7ic708ps96y3b7def6",
     "type" : "TCP"
   },
-  "relations" : [ {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "010f9650-f792-11f0-b694-81af19674741"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "47288bc0-f796-11f0-b694-81af19674741"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON",
-    "version" : 13107374
-  } ],
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   }

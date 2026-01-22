@@ -40,20 +40,7 @@
     "secret" : "c904cgy7otg6pv6o8pi4",
     "type" : "HTTP"
   },
-  "relations" : [ {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "7f334180-8424-11f0-a1aa-d709ca5e32a7"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "c526aa60-8424-11f0-8b96-e1473500cc6c"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON",
-    "version" : 6918014
-  } ],
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   }

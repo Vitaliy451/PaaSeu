@@ -47,46 +47,7 @@
     "secret" : "1z3n5o1b591iabjglzkc",
     "type" : "UDP"
   },
-  "relations" : [ {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "060e08e0-f79b-11f0-b694-81af19674741"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "dc397fc0-f79c-11f0-8445-478f4e731979"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON",
-    "version" : 13108631
-  }, {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "060e08e0-f79b-11f0-b694-81af19674741"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "0f5cf890-f79e-11f0-8445-478f4e731979"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON",
-    "version" : 13109378
-  }, {
-    "additionalInfo" : null,
-    "from" : {
-      "entityType" : "INTEGRATION",
-      "id" : "060e08e0-f79b-11f0-b694-81af19674741"
-    },
-    "to" : {
-      "entityType" : "DEVICE",
-      "id" : "644c5b90-f79c-11f0-8445-478f4e731979"
-    },
-    "type" : "ManagedByIntegration",
-    "typeGroup" : "COMMON",
-    "version" : 13108481
-  } ],
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : null,
