@@ -1,11 +1,7 @@
 {
   "entityType" : "DEVICE",
   "entity" : {
-    "additionalInfo" : {
-      "gateway" : false,
-      "overwriteActivityTime" : false,
-      "description" : "Praesent eleifend nec odio vitae bibendum. Sed eleifend turpis at nibh lobortis maximus. Sed ut pulvinar eros, id sollicitudin risus. Suspendisse lobortis porttitor diam eget ultrices. Aenean tincidunt ac justo eu laoreet."
-    },
+    "additionalInfo" : null,
     "customerId" : {
       "entityType" : "CUSTOMER",
       "id" : "13814000-1dd2-11b2-8080-808080808080"
@@ -20,22 +16,25 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "aac545f0-84ce-11f0-9dcf-813811befd2b"
+      "id" : "2ec8fa60-0322-11f0-8f83-43727cd6bc90"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "8db6d6d0-71d8-11f0-b11f-5d7ad7a9e7d5"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "e07fb3f0-f7a7-11f0-b694-81af19674741"
+      "id" : "8db6d6d0-71d8-11f0-b11f-5d7ad7a9e7d5"
     },
-    "label" : "SystemDevice",
-    "name" : "SystemDevice",
+    "label" : null,
+    "name" : "SN-001",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "thermostat"
+    "type" : "default"
   },
   "credentials" : {
-    "credentialsId" : "H5Q8WXM7rz25juwHfGMd",
+    "credentialsId" : "tsoVrjvfC2iEiadLBCMn",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,7 +45,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1769096718270,
+      "lastUpdateTs" : 1769003835281,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -54,11 +53,27 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1769096718269,
-      "longValue" : 1769096718263,
+      "lastUpdateTs" : 1769003835275,
+      "longValue" : 1769003835274,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1769003222039,
+      "longValue" : 1769003221282,
       "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ ]
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "version",
+      "lastUpdateTs" : 1756385678240,
+      "longValue" : null,
+      "strValue" : "v1.1"
+    } ]
   },
   "calculatedFields" : [ ]
 }

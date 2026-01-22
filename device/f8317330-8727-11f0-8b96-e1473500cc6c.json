@@ -4,7 +4,7 @@
     "additionalInfo" : {
       "gateway" : false,
       "overwriteActivityTime" : false,
-      "description" : "Praesent eleifend nec odio vitae bibendum. Sed eleifend turpis at nibh lobortis maximus. Sed ut pulvinar eros, id sollicitudin risus. Suspendisse lobortis porttitor diam eget ultrices. Aenean tincidunt ac justo eu laoreet."
+      "description" : ""
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
@@ -20,22 +20,25 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "aac545f0-84ce-11f0-9dcf-813811befd2b"
+      "id" : "c5265c40-8424-11f0-8b96-e1473500cc6c"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "f8317330-8727-11f0-8b96-e1473500cc6c"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "e07fb3f0-f7a7-11f0-b694-81af19674741"
+      "id" : "f8317330-8727-11f0-8b96-e1473500cc6c"
     },
-    "label" : "SystemDevice",
-    "name" : "SystemDevice",
+    "label" : "",
+    "name" : "block",
     "ownerId" : null,
     "softwareId" : null,
-    "type" : "thermostat"
+    "type" : "Default"
   },
   "credentials" : {
-    "credentialsId" : "H5Q8WXM7rz25juwHfGMd",
+    "credentialsId" : "IKtJZ7lxwRyUAC6FgXfZ",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -46,7 +49,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1769096718270,
+      "lastUpdateTs" : 1756727230248,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -54,8 +57,16 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1769096718269,
-      "longValue" : 1769096718263,
+      "lastUpdateTs" : 1756727230247,
+      "longValue" : 1756727230247,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1756726627626,
+      "longValue" : 1756726625564,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ ]
