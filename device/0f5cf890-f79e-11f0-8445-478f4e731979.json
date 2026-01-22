@@ -50,7 +50,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111696
+    "version" : 13112142
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {

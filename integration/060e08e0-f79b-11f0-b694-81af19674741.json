@@ -62,7 +62,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111700
+    "version" : 13112146
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -75,7 +75,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111696
+    "version" : 13112142
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -88,7 +88,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111698
+    "version" : 13112144
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {

@@ -69,7 +69,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111702
+    "version" : 13112148
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -82,7 +82,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111701
+    "version" : 13112147
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -95,7 +95,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111693
+    "version" : 13112139
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -108,7 +108,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111687
+    "version" : 13112133
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -121,7 +121,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111688
+    "version" : 13112134
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -134,7 +134,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111703
+    "version" : 13112149
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -147,7 +147,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111704
+    "version" : 13112150
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -160,7 +160,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111705
+    "version" : 13112151
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -173,7 +173,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111706
+    "version" : 13112152
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -186,7 +186,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111694
+    "version" : 13112140
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -199,7 +199,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111692
+    "version" : 13112138
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -212,7 +212,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111695
+    "version" : 13112141
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -225,7 +225,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111697
+    "version" : 13112143
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -238,7 +238,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111689
+    "version" : 13112135
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -251,7 +251,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111707
+    "version" : 13112153
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -264,7 +264,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111708
+    "version" : 13112154
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -277,7 +277,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111709
+    "version" : 13112155
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -290,7 +290,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111710
+    "version" : 13112156
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -303,7 +303,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111711
+    "version" : 13112157
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -316,7 +316,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111699
+    "version" : 13112145
   }, {
     "additionalInfo" : null,
     "from" : {
@@ -329,7 +329,7 @@
     },
     "type" : "ManagedByIntegration",
     "typeGroup" : "COMMON",
-    "version" : 13111712
+    "version" : 13112158
   } ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
