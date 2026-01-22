@@ -1,0 +1,27 @@
+{
+  "entityType" : "DASHBOARD",
+  "entity" : {
+    "title" : "My Dashboard",
+    "image" : "tb-image;/api/images/tenant/3734972c6f929fe71f920339231a353a (1).jpg",
+    "mobileHide" : false,
+    "mobileOrder" : null,
+    "configuration" : {
+      "description" : "Aenean congue quam sed orci bibendum, ac rhoncus ex auctor. Nullam a posuere dui. Pellentesque vitae urna nunc."
+    },
+    "name" : "My Dashboard",
+    "resources" : null,
+    "assignedCustomers" : null,
+    "customerId" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "DASHBOARD",
+      "id" : "5382c1d0-f7a8-11f0-ac05-ad8ff9a222e9"
+    },
+    "ownerId" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}
